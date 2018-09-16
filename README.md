@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/windler/go-neo4j-cypher)](https://goreportcard.com/report/github.com/windler/go-neo4j-cypher) [![codebeat badge](https://codebeat.co/badges/5e9d2ca1-c2a1-43d2-b5c7-992190e807b2)](https://codebeat.co/projects/github-com-windler-go-neo4j-cypher-master)
 # go neo4j cypher http api client
 `Golang` HTTP api client to access [neo4j](https://neo4j.com/) [transactional cypher endpoint](https://neo4j.com/docs/developer-manual/3.4/http-api/#http-api-transactional).
 
